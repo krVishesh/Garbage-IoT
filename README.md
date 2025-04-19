@@ -2,8 +2,6 @@
 
 A MicroPython-based IoT project that automatically sorts waste into recyclable, non-recyclable, and organic categories using computer vision and mechanical sorting.
 
-![Project Banner](https://via.placeholder.com/800x400?text=IoT+Garbage+Separator)
-
 ## 🌟 Features
 
 - 🤖 **Automatic Waste Detection**: Uses IR sensors to detect incoming waste
